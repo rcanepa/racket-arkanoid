@@ -1,7 +1,8 @@
 # racket-arkanoid
-
+DONE:
+- Wall collision detection
 TODO:
-- Implement collision detection (against walls and the bar) and the necessary phisics
+- Implement collision detection against the bars
 - Show the score on a box
 - Create the brick data structure
 - Add some bricks to the scene
